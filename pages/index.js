@@ -12,6 +12,9 @@ export default function Home() {
       <Link href="/about">
         <a>About Us</a>
       </Link>
+      <Link href="/contact">
+        <a>Contact Me</a>
+      </Link>
       <main className={styles.main}>
         <h1 className={styles.title}>
           Haskett Portfolio Site
